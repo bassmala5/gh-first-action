@@ -7,4 +7,4 @@ jobs:
       - name: print greeting
         run: echo "heloo fucker"
       - name: print goodbye
-        run: echo"byebye bitch"
+        run: echo "byebye bitch"
